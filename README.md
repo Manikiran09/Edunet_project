@@ -40,17 +40,22 @@ pip install -r requirements.txt
 #4. To deploy
 
 i)To preprocess Raw Data
+
 python run.py preprocess
 
 ii)For Exploratory and Data Analysis
+
 python run.py eda
 
 iii)For training model
+
 python run.py train
 
 iv)for prediction
+
 python run.py predict
 
 v)For Evalution of model
+
 python run.py evaluate
 
