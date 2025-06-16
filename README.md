@@ -6,17 +6,29 @@ A machine learning system to classify loan applications as **risky** or **not ri
 
 ## 📂 Project Structure
 LoanRiskClassifier/
+
 ├── data/ # Raw and processed datasets
+
 ├── src/ # Python modules
+
 │ ├── preprocess.py # Data cleaning & preprocessing
+
 │ ├── eda.py # Visualizations and data profiling
+
 │ ├── train.py # ML model training
+
 │ ├── predict.py # Prediction script
+
 │ └── evaluate.py # Model evaluation metrics
+
 ├── models/ # Saved ML models
+
 ├── outputs/ # Logs, reports, predictions
+
 ├── run.py # Central command runner
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
